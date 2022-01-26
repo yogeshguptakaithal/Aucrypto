@@ -1,5 +1,5 @@
 # Aucrypto
-Screesnhots visual appearance: https://docs.google.com/document/d/1kjBZ9NkFIp7rMCdTLBI786kxRGgToiG6z9Jj4rN248I/edit
+Visual appearance: https://docs.google.com/document/d/1kjBZ9NkFIp7rMCdTLBI786kxRGgToiG6z9Jj4rN248I/edit
 
 ### Tech Stack used: 
 * Android 
