@@ -18,3 +18,5 @@ Click on add account option on home screen. Enter name and password. Remember yo
 * Send ether
 * Delete wallet
 
+###In web3j wallet means ether account, its not like a wallet can have multiple accounts in web3j library (yet not found in documentation).
+
